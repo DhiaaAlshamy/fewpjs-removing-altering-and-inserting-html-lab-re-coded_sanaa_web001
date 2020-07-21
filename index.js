@@ -1,5 +1,5 @@
 // Write your code here!
 let someNode = document.querySelector('main');
 someNode.getElementById('main').remove();
-let newHeader = document.getElementById('h1#victory');
+let newHeader = document.CreteElement;
 someNode.appendChild(newHeader);
